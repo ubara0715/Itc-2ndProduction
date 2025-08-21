@@ -1,7 +1,7 @@
 # バズッチャー
 
 ## ファイル構成
-*[Unityデータ](/ProjectData/)
+・[Unityデータ](/ProjectData/)
 
 ## 概要
 
@@ -9,11 +9,9 @@
 2Dカメラアクション
 
 ## 担当プログラムファイル
-*[Playerのアイテム管理用、ファインダーのクリック処理]
-(/ProjectData/Assets/Scripts/ControlScripts/)
-(/ProjectData/Assets/Scripts/CreateScripts/)
-*[被写体、アニメーション、ステージ制御]
-(/ProjectData/Assets/Scripts/ManegeScripts/)
+・[Playerのアイテム管理用、ファインダーのクリック処理](/ProjectData/Assets/Scripts/ControlScripts/)
+・[挑戦してみたもの](/ProjectData/Assets/Scripts/CreateScripts/)
+・[被写体、アニメーション、ステージ制御](/ProjectData/Assets/Scripts/ManegeScripts/)
 
 ## ゲームストーリー
 とある日、バズりを求める主人公は三日でバズるという目標を掲げ、家を飛び出した。
@@ -30,8 +28,8 @@
 2025年10月～2025年11月(1か月)
 
 ## 制作メンバー
-プログラマー(2名)
-デザイナー(3名)
+・プログラマー(2名)
+・デザイナー(3名)
 
 計5名
 
