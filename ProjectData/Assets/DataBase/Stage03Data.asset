@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 079579d7792bea4488d9f66d7c13cef0, type: 3}
+  m_Name: Stage03Data
+  m_EditorClassIdentifier: 
+  pictureInfos:
+  - Id: 0
+    rarerity: 0
+    picture: {fileID: 1590645953, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 1
+    rarerity: 0
+    picture: {fileID: 1153560561, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 2
+    rarerity: 2
+    picture: {fileID: 1505286284, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 3
+    rarerity: 0
+    picture: {fileID: -543853178, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 4
+    rarerity: 0
+    picture: {fileID: 478201087, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 5
+    rarerity: 0
+    picture: {fileID: -850248271, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 6
+    rarerity: 0
+    picture: {fileID: -1722242756, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 7
+    rarerity: 1
+    picture: {fileID: 2138584718, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 8
+    rarerity: 1
+    picture: {fileID: -880218846, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 9
+    rarerity: 1
+    picture: {fileID: -422074512, guid: f339629b458687c47939859a95677406, type: 3}
+  - Id: 10
+    rarerity: 0
+    picture: {fileID: 927640713, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 11
+    rarerity: 0
+    picture: {fileID: 93029492, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 12
+    rarerity: 0
+    picture: {fileID: 1342085955, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 13
+    rarerity: 1
+    picture: {fileID: 746569524, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 14
+    rarerity: 1
+    picture: {fileID: 311125267, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 15
+    rarerity: 2
+    picture: {fileID: -1689892884, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 16
+    rarerity: 2
+    picture: {fileID: 73041280, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 17
+    rarerity: 1
+    picture: {fileID: -2021651549, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 18
+    rarerity: 1
+    picture: {fileID: 2103947655, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 19
+    rarerity: 2
+    picture: {fileID: 1720041681, guid: bb4391a249b98fb429ea4c69177c3a15, type: 3}
+  - Id: 20
+    rarerity: 1
+    picture: {fileID: 21300000, guid: f73b49491a8f4b645b635441ab1f33f4, type: 3}
